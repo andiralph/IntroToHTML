@@ -1,0 +1,31 @@
+h1 {
+  color: gold;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: black;
+  text-align: center;
+  font-size: 60px;
+
+}
+
+.movie-tile {
+  background-color: goldenrod;
+  font-size: 30px;
+  width: 25%;
+  padding: 10px;
+}
+img {
+  width:50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+body {background-image: url(https://www.elsetge.cat/myimg/f/15-151289_gold-star-background-stars-on-black-background.jpg);
+
+}
+.all-movies{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
